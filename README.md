@@ -1,2 +1,0 @@
-# firstgit-graduation
-graduation work
